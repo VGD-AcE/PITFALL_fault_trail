@@ -1,0 +1,3 @@
+﻿  Ascon.cpp
+E:\Code\code\Ascon\PITFALL_fault_trail\Ascon.cpp(63,6): warning C4101: “flag”: 未引用的局部变量
+  PITFALL_fault_trail.vcxproj -> E:\Code\code\Ascon\PITFALL_fault_trail\x64\Debug\PITFALL_fault_trail.exe
